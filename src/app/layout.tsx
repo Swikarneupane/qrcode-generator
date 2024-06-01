@@ -20,7 +20,9 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="flex flex-col justify-center px-2 py-6 text-xl shadow-md">
           <p className="text-center">Free Unlimited Qr Code Generator</p>
-          <Link href="/" className="fixed ml-[90vw]">
+          <Link
+            href="https://github.com/Swikarneupane/qrcode-generator"
+            className="fixed ml-[90vw]">
             <svg
               viewBox="0 0 15 15"
               fill="none"
