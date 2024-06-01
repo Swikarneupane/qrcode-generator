@@ -22,6 +22,7 @@ export default function RootLayout({
           <p className="text-center">Free Unlimited Qr Code Generator</p>
           <Link
             href="https://github.com/Swikarneupane/qrcode-generator"
+            target="_blank"
             className="fixed ml-[90vw]">
             <svg
               viewBox="0 0 15 15"
